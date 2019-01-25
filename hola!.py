@@ -1,0 +1,1 @@
+int_lol1 = 0int_choice = 0int_n1 = 0print("hello what do to 1) add 2) divide 3) multiply 4) divide")choice = input()if choice == 1: {     print("enter n1")     input()    }
